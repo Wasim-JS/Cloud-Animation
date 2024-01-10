@@ -71,7 +71,7 @@ main .cloud .cld> span::before{
     
     50%{
         
-        transform: translateY(300px) scaleY(1.8);
+        transform: translateY(300px) scaleY(2);
         transform-origin: bottom;
         opacity: .5;
  }
